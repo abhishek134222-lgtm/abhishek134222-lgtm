@@ -1,110 +1,202 @@
+# 👋 Hi, I'm Abhishek
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=60&lines=Hi%2C+I'm+Abhishek;Computer+Science+Student;Aspiring+Software+Developer;Problem+Solver" alt="Animated headline: Hi, I'm Abhishek. Computer Science Student, Aspiring Software Developer, Problem Solver" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=Aspiring+Software+Engineer;Full-Stack+Development+Enthusiast;Java+%26+Data+Structures+%26+Algorithms;Exploring+AI-Powered+Applications" alt="Typing animation" />
 
-<h3>Computer Science Student &nbsp;·&nbsp; Aspiring Software Developer &nbsp;·&nbsp; Problem Solver</h3>
+### B.Tech Computer Science Engineering Student
 
-<sub>Java &nbsp;·&nbsp; Data Structures &amp; Algorithms &nbsp;·&nbsp; Backend Systems &nbsp;·&nbsp; Embedded / IoT</sub>
+**Software Engineering · Full-Stack Development · Java & DSA · AI Integration**
+
+<a href="https://github.com/abhishek134222-lgtm">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/abhishek--cse">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-I'm a B.Tech Computer Science student who likes building things that actually run, whether that's a Java backend serving a real database or an Arduino circuit that has to react to the physical world.
+I'm a B.Tech Computer Science Engineering student passionate about software engineering, problem-solving, and building practical technology solutions.
 
-- I'm currently strengthening my **Java**, **OOP** and **Data Structures & Algorithms**, with the goal of becoming a solid backend-leaning software engineer.
-- I build full projects end to end: a REST backend, a database, a desktop client, a website, and deployment.
-- I enjoy **hardware + software** work: sensors, microcontrollers and Bluetooth telemetry.
-- I'm curious about **AI/ML** and emerging technologies, and I'm learning the fundamentals before building with them.
-- My approach to problems: break them into small pieces, get a working version first, then test and improve it.
+My primary focus is developing strong software engineering fundamentals while working towards becoming a **Full-Stack Software Engineer with an interest in AI-powered applications.**
+
+- 💻 Strengthening my programming skills through **Java, OOP and Data Structures & Algorithms**.
+- ⚙️ Exploring backend engineering with **Java and Spring Boot**.
+- 🌐 Learning to build modern web applications using **React and TypeScript**.
+- 🤖 Exploring AI integration and how LLMs can enhance real-world software products.
+- 🗄️ Interested in database design, APIs, system architecture and scalable applications.
+- 🔧 Enjoy experimenting with hardware, embedded systems and IoT.
+
+I believe in learning by building, understanding the fundamentals, and continuously improving through practical projects.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/abhishek134222-lgtm/Food-Bridge">FoodBridge</a></h3>
-      <p>Food donation platform connecting donors with NGOs and receivers. Includes a Java Swing desktop app, a responsive website and a shared Java REST backend.</p>
-      <p>Donation lifecycle (<code>AVAILABLE</code> → <code>CLAIMED</code> → <code>COMPLETED</code>), role-based portals, PBKDF2 password hashing, and atomic database updates to prevent duplicate claims.</p>
-      <p><sub><b>Java 21 · Swing · PostgreSQL (Neon) · HTML/CSS/JS · Docker · Render · Vercel</b></sub></p>
-      <p><a href="https://github.com/abhishek134222-lgtm/Food-Bridge">Repository</a> &nbsp;·&nbsp; <a href="https://foodbridge-backend-wnpw.onrender.com/">Live backend</a></p>
+    <td width="50%" valign="top">
+
+### 🍲 FoodBridge
+
+**Food Donation & Management Platform**
+
+A platform connecting food donors, NGOs and receivers to make food redistribution more organized and accessible.
+
+**Key Features**
+- Java REST backend shared by desktop and web clients.
+- Role-based portals and donation lifecycle management.
+- PostgreSQL database integration.
+- PBKDF2 password hashing.
+- Atomic database updates to prevent duplicate claims.
+
+**Tech Stack**
+
+`Java 21` `Swing` `PostgreSQL` `HTML` `CSS` `JavaScript` `Docker`
+
+[Repository](https://github.com/abhishek134222-lgtm/Food-Bridge) · [Live Backend](https://foodbridge-backend-wnpw.onrender.com/)
+
     </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/abhishek134222-lgtm/Fire-And-Smoke-Detection-System">Fire &amp; Smoke Detection System</a></h3>
-      <p>Arduino Uno safety system combining an IR flame sensor and an MQ-2 smoke/gas sensor, with two buzzers that use different pulse patterns for fire and smoke.</p>
-      <p>10-second sensor warm-up, a latching fire alarm that needs a manual reset, and HC-05 Bluetooth commands for status report, self-test and mute. Documented with a wiring diagram and calibration guide.</p>
-      <p><sub><b>C++ (Arduino) · MQ-2 · IR flame sensor · HC-05</b></sub></p>
-      <p><a href="https://github.com/abhishek134222-lgtm/Fire-And-Smoke-Detection-System">Repository</a></p>
+    <td width="50%" valign="top">
+
+### 🔥 Fire & Smoke Detection System
+
+**Arduino-Based Safety Monitoring**
+
+An embedded system using flame and smoke/gas sensors to detect potential fire and smoke conditions.
+
+**Key Features**
+- Arduino Uno-based monitoring.
+- IR flame and MQ-2 sensors.
+- Distinct buzzer alert patterns.
+- Bluetooth-based status commands.
+- Manual reset and alarm control.
+
+**Tech Stack**
+
+`C++` `Arduino Uno` `MQ-2` `IR Sensor` `HC-05`
+
+[Repository](https://github.com/abhishek134222-lgtm/Fire-And-Smoke-Detection-System)
+
     </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/abhishek134222-lgtm/IoT-Based-Indoor-Air-Quality-Risk-Prediction-and-Ventilation-Control-System">Indoor Air Quality &amp; Ventilation Control</a></h3>
-      <p>IoT system that monitors harmful gases, smoke, temperature and humidity, switches ventilation fans on automatically when air quality turns unsafe, and sends alerts to a mobile app.</p>
-      <p>Early-stage project: the repository is still being documented.</p>
-      <p><sub><b>Arduino · gas / smoke / temperature / humidity sensors · Bluetooth</b></sub></p>
-      <p><a href="https://github.com/abhishek134222-lgtm/IoT-Based-Indoor-Air-Quality-Risk-Prediction-and-Ventilation-Control-System">Repository</a></p>
+  </tr>
+  <tr>
+    <td colspan="2">
+
+### 🌱 Indoor Air Quality & Ventilation Control System
+
+**IoT-Based Environmental Monitoring**
+
+An IoT project focused on monitoring indoor air conditions and controlling ventilation based on sensor readings.
+
+**Key Features**
+- Environmental sensor monitoring.
+- Automatic ventilation control.
+- Mobile connectivity and alerts.
+- Hardware-software integration.
+
+**Tech Stack**
+
+`Arduino` `C++` `Sensors` `Bluetooth` `IoT`
+
+[Repository](https://github.com/abhishek134222-lgtm/IoT-Based-Indoor-Air-Quality-Risk-Prediction-and-Ventilation-Control-System)
+
     </td>
   </tr>
 </table>
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack & Tools
 
-**Built projects with**
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,cpp,py,js,html,css,postgres,docker,git,github,vscode,arduino&perline=12" alt="Technology icons: Java, C++, Python, JavaScript, HTML, CSS, PostgreSQL, Docker, Git, GitHub, VS Code, Arduino" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js" alt="Java, C++, Python and JavaScript"/>
+</p>
 
-**Currently learning and strengthening**
+### Web Development & Databases
 
-`Data Structures & Algorithms` &nbsp; `Advanced OOP in Java` &nbsp; `DBMS` &nbsp; `AI / ML fundamentals`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,postgres" alt="HTML, CSS and PostgreSQL"/>
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,arduino" alt="Git, GitHub, VS Code, Docker and Arduino"/>
+</p>
+
+### Currently Learning
+
+`React` · `TypeScript` · `Spring Boot` · `REST APIs` · `Advanced Java` · `AI Integration` · `LLM Fundamentals`
 
 ---
 
-## Currently
+## 🎯 Current Focus
 
-| | |
-|:--|:--|
-| **Learning** | Java and OOP, Data Structures and Algorithms, DBMS |
-| **Building** | Backend and full-stack projects in Java; IoT and embedded systems |
-| **Exploring** | AI / ML fundamentals |
-| **Looking for** | Internships and opportunities to work on real software with experienced developers |
+| Area | Focus |
+|:---|:---|
+| Programming | Java and Object-Oriented Programming |
+| Problem Solving | Data Structures & Algorithms |
+| Frontend | JavaScript, React and TypeScript |
+| Backend | Java and Spring Boot |
+| Database | SQL and PostgreSQL |
+| AI | AI integration and LLM fundamentals |
+| Engineering | Git, Docker and software architecture |
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishek134222-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats card for abhishek134222-lgtm" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek134222-lgtm&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most used languages across public repositories" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishek134222-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&rank_icon=github" alt="GitHub Statistics"/>
 
-<img src="https://streak-stats.demolab.com?user=abhishek134222-lgtm&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for abhishek134222-lgtm" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek134222-lgtm&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
-<br /><br />
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=abhishek134222-lgtm&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek134222-lgtm/abhishek134222-lgtm/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek134222-lgtm/abhishek134222-lgtm/output/github-snake.svg" />
-  <img alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/abhishek134222-lgtm/abhishek134222-lgtm/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek134222-lgtm/abhishek134222-lgtm/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek134222-lgtm/abhishek134222-lgtm/output/github-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/abhishek134222-lgtm/abhishek134222-lgtm/output/github-snake.svg"/>
 </picture>
 
 </div>
 
 ---
 
-## Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/abhishek134222-lgtm"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="https://www.linkedin.com/in/abhishek--cse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+<a href="https://github.com/abhishek134222-lgtm">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/abhishek--cse">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-</div>
+<br/><br/>
 
-<div align="center">
-<sub>Always learning, always building.</sub>
+**Open to learning, collaborating and building meaningful software.**
+
+*Always learning. Always building. 🚀*
+
 </div>
