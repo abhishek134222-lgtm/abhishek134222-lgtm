@@ -174,8 +174,9 @@ An IoT project focused on monitoring indoor air conditions and controlling venti
 <div align="center">
 
 <a href="https://github.com/abhishek134222-lgtm">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishek134222-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&rank_icon=github" alt="GitHub statistics"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=abhishek134222-lgtm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 </a>
+<br>
 <a href="https://github.com/abhishek134222-lgtm">
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhishek134222-lgtm&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </a>
@@ -185,8 +186,6 @@ An IoT project focused on monitoring indoor air conditions and controlling venti
 <img src="https://streak-stats.demolab.com?user=abhishek134222-lgtm&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="80%"/>
 
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek134222-lgtm&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph"/>
 
 </div>
 
